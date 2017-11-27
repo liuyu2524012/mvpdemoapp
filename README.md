@@ -1,0 +1,2 @@
+# mvpdemoapp
+这是一个androidMVP设计模式的demo，实现视图层和控制层的分离
