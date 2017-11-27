@@ -5,7 +5,7 @@ package com.cn.demo.view;
  * Created by liuyu on 2017/11/27.
  */
 
-public class DemoMVPActivity implements IDemoMVPActView{
+public class DemoMVPActivity implements IDemoMVPActView,DemoMVPActViewListener{
 
 
 }

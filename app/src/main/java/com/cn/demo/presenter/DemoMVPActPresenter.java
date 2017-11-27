@@ -5,7 +5,7 @@ package com.cn.demo.presenter;
  * Created by yanliu on 2017/11/27.
  */
 
-public class DemoMVPActPresenter implements IDemoMVPActPresenter{
+public class DemoMVPActPresenter implements IDemoMVPActPresenter,DemoMVPActPresenterListener{
 
 
 }
