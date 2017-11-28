@@ -7,4 +7,7 @@ package com.cn.demo.view;
 
 public interface IDemoMVPActView {
 
+    void getData();
+
+    void setData(String mData);
 }

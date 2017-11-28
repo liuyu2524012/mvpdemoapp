@@ -6,4 +6,5 @@ package com.cn.demo.presenter;
  */
 
 public interface IDemoMVPActPresenter {
+    void getDataPresenter();
 }

@@ -1,5 +1,7 @@
 package com.cn.demo.model;
 
+import com.cn.demo.listener.IDemoMVPActCallbackListener;
+
 /**
  *
  * 数据控制层
@@ -7,4 +9,5 @@ package com.cn.demo.model;
  */
 
 public interface IDemoMVPActModel {
+    void getData(IDemoMVPActCallbackListener listener);
 }

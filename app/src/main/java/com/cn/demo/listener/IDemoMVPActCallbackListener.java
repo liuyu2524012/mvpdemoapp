@@ -8,4 +8,7 @@ package com.cn.demo.listener;
 public interface IDemoMVPActCallbackListener {
 
 
+    void onNetSuccess(String mData);
+
+    void onNativeSuccess(String mData);
 }
