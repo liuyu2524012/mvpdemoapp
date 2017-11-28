@@ -5,5 +5,5 @@ package com.cn.demo.model;
  * Created by yanliu on 2017/11/27.
  */
 
-public class DemoMVPActModel implements IDemoMVPActModel,DemoMVPActModelListener{
+public class DemoMVPActModel implements IDemoMVPActModel {
 }

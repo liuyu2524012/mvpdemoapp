@@ -7,5 +7,4 @@ package com.cn.demo.view;
 
 public interface IDemoMVPActView {
 
-
 }
